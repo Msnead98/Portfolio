@@ -8,6 +8,8 @@ These are projects that I am proud of
 
 
 
+
+
 Project 1: Password Storage Application 
 
 
@@ -21,6 +23,9 @@ Random
 String 
 Tkinter 
 CustomTktiner
+
+
+
 
 
 Project 2: Indeed Job Scraper
